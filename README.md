@@ -1,0 +1,2 @@
+# Generative-Adversarial-Network-for-Fashion-MNIST-Image-Generation
+This project explores the use of a Generative Adversarial Network (GAN) to generate fashion images from the Fashion MNIST dataset. The generator creates fake images, and the discriminator distinguishes them from real ones. Performance is evaluated using Fréchet Inception Distance (FID) to assess the quality of the generated images.
